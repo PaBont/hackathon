@@ -1,0 +1,3 @@
+[submodule "vehicle-api/https:/github.com/PaBont/hackathon/vehicle-api"]
+	path = vehicle-api/https:/github.com/PaBont/hackathon/vehicle-api
+	url = https://github.com/PaBont/hackathon/
